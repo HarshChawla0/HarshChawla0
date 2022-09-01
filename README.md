@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @HarshChawla0
+- 👋 Hi, I’m @HarshChawla
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning MERN Stack Web Development.
 - 💞️ I’m looking to collaborate on ...
