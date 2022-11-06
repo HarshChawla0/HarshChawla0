@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @HarshChawla
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently learning MERN Stack Web Development.
+- 👀 I’m interested in Web and Android Development
+- 🌱 I’m currently learning Android Development.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
